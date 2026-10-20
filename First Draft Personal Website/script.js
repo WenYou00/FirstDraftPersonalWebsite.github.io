@@ -70,37 +70,37 @@
     {
       num: '01',
       title: 'Project One',
-      tag: 'UI / UX · Interface Design',
-      desc: 'A short description of this project. Explain the problem, what you built, and what you learned.'
+      tag: 'C++',
+      desc: 'A short description of this project.'
     },
     {
       num: '02',
       title: 'Project Two',
-      tag: 'Game Design · Unity',
-      desc: 'A short description of this project. Explain the idea, the core gameplay, and what you learned.'
+      tag: 'Pyhton',
+      desc: 'A short description of this project.'
     },
     {
       num: '03',
       title: 'Project Three',
-      tag: 'Web Development · Creative Code',
-      desc: 'A short description of this project. Explain the design goals and the final result.'
+      tag: 'Java',
+      desc: 'A short description of this project. '
     },
     {
       num: '04',
       title: 'Project Four',
-      tag: 'JavaScript · API',
+      tag: 'Computer Graphic',
       desc: 'A short description of this project.'
     },
     {
       num: '05',
       title: 'Project Five',
-      tag: 'Accessibility · UI',
+      tag: 'UI / UX 1',
       desc: 'A short description of this project.'
     },
     {
       num: '06',
       title: 'Project Six',
-      tag: 'Creative Coding',
+      tag: 'UI / UX 2',
       desc: 'A short description of this project.'
     }
   ];
